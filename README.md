@@ -21,5 +21,5 @@ Cloned the given three column card using basic html and css, and made the applic
 
 ### Links
 
-- Solution URL: [solution](https://github.com/palavarapuprakash44/ThreeColumnCard)
-- Live Site URL: [live site URL here](https://palavarapuprakash44.github.io/ThreeColumnCard/)
+-  [solution](https://github.com/palavarapuprakash44/ThreeColumnCard)
+- [live site URL here](https://palavarapuprakash44.github.io/ThreeColumnCard/)
