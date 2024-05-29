@@ -17,7 +17,6 @@ Cloned the given three column card using basic html and css, and made the applic
 
 ![Mobile View](./outputs/MobileView.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
